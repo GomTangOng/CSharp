@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+*.json
+*.pdb
+*.props
+*.targets
+CSharp/CSharp/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+CSharp/CSharp/obj/Debug/net6.0/CSharp.AssemblyInfo.cs
+CSharp/CSharp/obj/Debug/net6.0/CSharp.AssemblyInfoInputs.cache
+*.cache
+CSharp/CSharp/obj/Debug/net6.0/CSharp.csproj.FileListAbsolute.txt
+*.editorconfig
+CSharp/CSharp/obj/Debug/net6.0/CSharp.GlobalUsings.g.cs
